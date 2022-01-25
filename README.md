@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Furkan</h1>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Gmrkc" alt="Gmrkc" /> </p>
 
 - 🔭 I’m currently a student of Adnan Menderes University
-- 👀 I’m interested in Blockchain, Data Science 
 - 📫 How to reach me: **furkangumrukcu@outlook.com.tr**
 
 ----
