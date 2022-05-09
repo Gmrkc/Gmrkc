@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently a student of Adnan Menderes University
 - 📫 How to reach me: **furkangumrukcu@outlook.com.tr**
-- 🌱 I’m currently working on iOS development with Swift
 
 ----
 
