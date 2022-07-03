@@ -1,7 +1,6 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Gmrkc" alt="Gmrkc" /> </p>
 
-- 🔭 I’m currently a student of Adnan Menderes University
 - 📫 How to reach me: **furkangumrukcu@outlook.com.tr**
 
 ----
